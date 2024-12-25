@@ -1,4 +1,15 @@
-## Hi there 👋
+
+<h4 align="center"><samp> Hi there 👋 </samp></h4>
+
+<p align="center">
+  <img width="150" src="https://media1.tenor.com/m/5iiD6jOOCuAAAAAC/quby-high-five.gif">
+</p>
+
+- ✨ I'm Betty (she/her) -- nice to meet you! 
+- 👩🏻‍💻 I'm currently a software engineer at @hightouch 
+- 💬 I love to run, travel, try new restaurants, and make vases out of clay 🏺
+- 🌱 Some personal projects loading...
+- 📫 How to reach me: caiying.shen526@gmail.com
 
 <!--
 **caiyingshen/caiyingshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
